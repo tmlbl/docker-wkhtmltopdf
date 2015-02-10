@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM debian:jessie
 
 ENV DEBIAN_FRONTEND=noninteractive
 
